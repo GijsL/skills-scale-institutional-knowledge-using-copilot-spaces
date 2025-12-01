@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles
+<!-- Added per Issue #4 to provide complete team coverage -->
+- UX/UI Designers: drive user-centered design and accessibility.
+- Security Engineers: identify and address security risks.
+- DevOps/Release Engineers: maintain CI/CD pipelines and deployment infrastructure.
+- Customer Support: interface with users and relay feedback.
+- Business Analysts: bridge business needs and technical solutions.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed definitions and interaction patterns.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -41,6 +51,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
 
+## Templates
+- [Onboarding Checklist](templates/onboarding-checklist.md): for new team members
+- [Risk Escalation Template](templates/risk-escalation-template.md): for standardized risk escalation
+
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use the [Onboarding Checklist](templates/onboarding-checklist.md) for new team members.
